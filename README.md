@@ -1,3 +1,5 @@
+*Ms Afzali Ph.D. thesis about devising a personalized hierarchical federated learning method.*
+
 Implementation of the algorithm presented in the paper titled "Private and Heterogeneous Personalized Hierarchical Federated Learning using Conditional Generative Adversarial Networks" with Tensorflow.
 --
 * Here is one example to run this code (IID MNIST Scenario):
