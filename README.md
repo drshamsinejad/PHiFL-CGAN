@@ -62,9 +62,7 @@ Implementation of the algorithm presented in the paper titled "Private and Heter
           lr=0.0005    # for CGAN
           beta_1=0.5   # for CGAN
 
-Dataset
---
-Your need to download FEMNIST dataset.
-
 **Notice:**
+        Your need to download FEMNIST dataset.
+
         You need to create the following folders where the program is located: `results\clients_models`
