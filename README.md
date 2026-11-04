@@ -3,7 +3,7 @@ This repository contains the official source code for the paper: "Private and He
 Authored by:
 * Afsaneh Afzali (af.afzali@sutech.ac.ir)
 * Pirooz Shamsinejadbabaki (p.shamsinejad@sutech.ac.ir)
---
+---
 * Here is one example to run this code (IID MNIST Scenario):
 
           dataset="mnist"
